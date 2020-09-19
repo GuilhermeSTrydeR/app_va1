@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { format } from 'path';
 
 @Component({
   selector: 'app-cadastro',
@@ -8,6 +9,15 @@ import { Component, OnInit } from '@angular/core';
 export class CadastroPage implements OnInit {
 
   constructor() { }
+
+    cadastrar(){
+
+        alert('Cadastro Realizado com Sucesso!');
+
+    
+    }
+
+  
 
   ngOnInit() {
   }
