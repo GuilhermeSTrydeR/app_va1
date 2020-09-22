@@ -1,9 +1,12 @@
 //espaçamento basico nos elementos dos cards
 ion-card{
     padding: 5px;
+    border: 2px solid grey;
+    border-radius: 15px;
 }
 
 //borda simples na GIF da pagina sobre
 img{
-    border: 5px solid black;
+    border: 2px solid grey;
+    border-radius: 15px;
 }
