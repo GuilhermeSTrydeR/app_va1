@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { format } from 'path';
+// import { format } from 'path';
 
 @Component({
   selector: 'app-cadastro',
